@@ -1,0 +1,30 @@
+@media only screen and (max-width: 1200px){
+	.main .main-top .reccs .column {
+		margin: 0 10px;
+	}
+	.main .main-top .reccs .column img {
+    	max-width: 300px;
+	}
+	.bottom{
+			justify-content: space-around;
+	}
+	.bottom .column{
+		margin: 0 50px;}
+
+
+}
+@media only screen and (max-width: 1024px){
+	
+.main .main-top .reccs .column {
+		margin: 0 5px;
+	}
+	.main .main-top .reccs .column img {
+    	max-width: 280px;
+	}
+	.bottom{
+			justify-content: space-around;
+	}
+	.bottom .column{
+		margin: 0 50px;}
+	
+}
